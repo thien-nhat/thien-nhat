@@ -27,7 +27,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 <!--
 - 💼 Working as: [Your Job Title] at [Your Company]
 -->
-- 🎓 Graduated from: Bach Khoa University with a degree in Computer Engineering
+- 🎓 Graduated from: Bach Khoa University
 <!--
 - 🏆 Achievements: [List any notable achievements, certifications, or awards]
 - 💬 Ask me about: [Topics you're knowledgeable about]
